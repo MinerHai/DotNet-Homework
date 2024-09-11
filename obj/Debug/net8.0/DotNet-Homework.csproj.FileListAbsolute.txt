@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\bin\Debug\net8.0\DotNet-Homework.exe
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\bin\Debug\net8.0\DotNet-Homework.deps.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\bin\Debug\net8.0\DotNet-Homework.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\bin\Debug\net8.0\DotNet-Homework.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\bin\Debug\net8.0\DotNet-Homework.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\refint\DotNet-Homework.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\DotNet-Homework.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\obj\Debug\net8.0\ref\DotNet-Homework.dll

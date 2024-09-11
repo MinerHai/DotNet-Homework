@@ -1,2 +1,1 @@
-# DotNet-Homework
- 
+![Bai tap](images/bai_11_09_2024.png)
