@@ -1,1 +1,1 @@
-![Bai tap](images/bai_11_09_2024.png)
+![Bai tap](images/bai_18_09_2024.png)
