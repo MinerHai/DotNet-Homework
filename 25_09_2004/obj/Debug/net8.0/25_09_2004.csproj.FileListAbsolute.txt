@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\bin\Debug\net8.0\25_09_2004.exe
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\bin\Debug\net8.0\25_09_2004.deps.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\bin\Debug\net8.0\25_09_2004.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\bin\Debug\net8.0\25_09_2004.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\bin\Debug\net8.0\25_09_2004.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\refint\25_09_2004.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\25_09_2004.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\25_09_2004\obj\Debug\net8.0\ref\25_09_2004.dll
