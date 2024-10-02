@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\bin\Debug\net8.0\02_10_2024.exe
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\bin\Debug\net8.0\02_10_2024.deps.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\bin\Debug\net8.0\02_10_2024.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\bin\Debug\net8.0\02_10_2024.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\bin\Debug\net8.0\02_10_2024.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\refint\02_10_2024.dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\02_10_2024.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\02_10_2024\obj\Debug\net8.0\ref\02_10_2024.dll
