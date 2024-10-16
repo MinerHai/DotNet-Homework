@@ -116,11 +116,11 @@ namespace Caculator
             txtNum.Text = "";
         }
 
-        private void btnChiaDu_Click(object sender, EventArgs e)
+        private void btnChiaDu_Click(object sender, EventArgs e) // btnZeRo
         {
-                PhepTinh = "ChiaDu";
-                isoldNum = false;
-                txtNum.Text = "";
+            txtNum.Text = "0";
+            if (isoldNum) oldNum = 0;
+            else curNum = 0;
         }
 
         private void button16_Click(object sender, EventArgs e)

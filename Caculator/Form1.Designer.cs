@@ -42,7 +42,7 @@
             button11 = new Button();
             button12 = new Button();
             btnChia = new Button();
-            btnChiaDu = new Button();
+            btnZero = new Button();
             btnClear = new Button();
             button16 = new Button();
             SuspendLayout();
@@ -198,16 +198,16 @@
             btnChia.UseVisualStyleBackColor = true;
             btnChia.Click += btnChia_Click;
             // 
-            // btnChiaDu
+            // btnZero
             // 
-            btnChiaDu.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold);
-            btnChiaDu.Location = new Point(255, 320);
-            btnChiaDu.Name = "btnChiaDu";
-            btnChiaDu.Size = new Size(82, 64);
-            btnChiaDu.TabIndex = 15;
-            btnChiaDu.Text = "%";
-            btnChiaDu.UseVisualStyleBackColor = true;
-            btnChiaDu.Click += btnChiaDu_Click;
+            btnZero.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold);
+            btnZero.Location = new Point(255, 320);
+            btnZero.Name = "btnZero";
+            btnZero.Size = new Size(82, 64);
+            btnZero.TabIndex = 15;
+            btnZero.Text = "0";
+            btnZero.UseVisualStyleBackColor = true;
+            btnZero.Click += btnChiaDu_Click;
             // 
             // btnClear
             // 
@@ -237,7 +237,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(472, 399);
             Controls.Add(btnChia);
-            Controls.Add(btnChiaDu);
+            Controls.Add(btnZero);
             Controls.Add(btnClear);
             Controls.Add(button16);
             Controls.Add(btnNhan);
@@ -278,7 +278,7 @@
         private Button button11;
         private Button button12;
         private Button btnChia;
-        private Button btnChiaDu;
+        private Button btnZero;
         private Button btnClear;
         private Button button16;
     }
