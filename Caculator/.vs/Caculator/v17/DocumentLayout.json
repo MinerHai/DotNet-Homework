@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_tr\u01B0\u1EDDng\\Caculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|c:\\users\\dell\\onedrive\\desktop\\csharp_tr\u01B0\u1EDDng\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|c:\\users\\dell\\onedrive\\desktop\\csharp_tr\u01B0\u1EDDng\\caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10277B9C-1EB3-4577-AE0D-279F8460A71F}|Caculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_tr\u01B0\u1EDDng\\Caculator\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_tr\u01B0\u1EDDng\\Caculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAYwHoAAAAhAAAA",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAYwJgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T01:31:30.996Z",
               "IsPinned": true,
@@ -38,13 +38,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_tr\u01B0\u1EDDng\\Caculator\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_tr\u01B0\u1EDDng\\Caculator\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\csharp_tr\u01B0\u1EDDng\\Caculator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:32:09.912Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-16T01:32:09.912Z"
             }
           ]
         },

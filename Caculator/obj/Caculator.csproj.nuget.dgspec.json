@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\Caculator\\Caculator.csproj": {}
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Caculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\Caculator\\Caculator.csproj": {
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Caculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\Caculator\\Caculator.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Caculator.csproj",
         "projectName": "Caculator",
-        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\Caculator\\Caculator.csproj",
+        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\Caculator.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\Caculator\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Caculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
