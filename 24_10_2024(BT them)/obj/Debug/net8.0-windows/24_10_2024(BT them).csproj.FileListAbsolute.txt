@@ -1,0 +1,18 @@
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\bin\Debug\net8.0-windows\24_10_2024(BT them).exe
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\bin\Debug\net8.0-windows\24_10_2024(BT them).deps.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\bin\Debug\net8.0-windows\24_10_2024(BT them).runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\bin\Debug\net8.0-windows\24_10_2024(BT them).dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\bin\Debug\net8.0-windows\24_10_2024(BT them).pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\_24_10_2024_BT_them_.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\_24_10_2024_BT_them_.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\refint\24_10_2024(BT them).dll
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).pdb
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\24_10_2024(BT them).genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Project\DotNet-Homework\24_10_2024(BT them)\obj\Debug\net8.0-windows\ref\24_10_2024(BT them).dll
