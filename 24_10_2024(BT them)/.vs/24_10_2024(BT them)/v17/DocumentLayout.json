@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\24_10_2024(bt them)\\models\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\24_10_2024(bt them)\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\24_10_2024(bt them)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\24_10_2024(bt them)\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\24_10_2024(bt them)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF73FE-4741-4EA5-873F-99D7EC1265A7}|24_10_2024(BT them).csproj|solutionrelative:models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +40,11 @@
         },
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\SinhVien.cs",
               "RelativeDocumentMoniker": "models\\SinhVien.cs",
@@ -53,8 +53,7 @@
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:56:27.244Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -62,20 +61,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAA6wH0AAAApAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwI4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:41:36.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -87,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuanLySV.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\QuanLySV.cs",
               "RelativeDocumentMoniker": "models\\QuanLySV.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\QuanLySV.cs",
               "RelativeToolTip": "models\\QuanLySV.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwDYAAAAhAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T03:21:09.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Khoa.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\24_10_2024(BT them)\\models\\Khoa.cs",
               "RelativeDocumentMoniker": "models\\Khoa.cs",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "models\\Khoa.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:03:03.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T03:03:03.97Z"
             }
           ]
         },

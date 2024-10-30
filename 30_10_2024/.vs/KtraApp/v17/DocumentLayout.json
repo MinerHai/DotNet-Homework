@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\30_10_2024\\ktraapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\ktraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\ktraapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Program.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Program.cs",
+              "RelativeToolTip": "KtraApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:03:07.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Product.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Product.cs",
+              "RelativeToolTip": "KtraApp\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:03:01.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "KtraApp\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\ShoppingCart.cs",
+              "RelativeToolTip": "KtraApp\\ShoppingCart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:38:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\30_10_2024\\KtraApp\\Form1.cs [Design]",
+              "RelativeToolTip": "KtraApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:27:17.204Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

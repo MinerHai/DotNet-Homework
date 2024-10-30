@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C#dotnet\\KtraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|D:\\code\\C#dotnet\\KtraApp\\ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|d:\\code\\c#dotnet\\ktraapp\\ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|d:\\code\\c#dotnet\\ktraapp\\ktraapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|d:\\code\\c#dotnet\\ktraapp\\ktraapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|d:\\code\\c#dotnet\\ktraapp\\ktraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0064DA-0E03-4DB6-A4D9-982C7351591B}|KtraApp\\KtraApp.csproj|solutionrelative:ktraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Program.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Program.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Program.cs",
+              "RelativeToolTip": "KtraApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:03:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Product.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Product.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Product.cs",
+              "RelativeToolTip": "KtraApp\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:03:01.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "KtraApp\\ShoppingCart.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\ShoppingCart.cs",
+              "RelativeToolTip": "KtraApp\\ShoppingCart.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:38:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Form1.cs*",
+              "RelativeToolTip": "KtraApp\\Form1.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAADgvy0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:38:14.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KtraApp\\Form1.cs",
+              "ToolTip": "D:\\code\\C#dotnet\\KtraApp\\KtraApp\\Form1.cs [Design]*",
+              "RelativeToolTip": "KtraApp\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:27:17.204Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
