@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|c:\\users\\dell\\onedrive\\desktop\\project\\dotnet-homework\\mobile app\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C2E34-59B5-4A66-B812-516FE3ABF162}|Mobile App.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\DoanhThu.cs",
+              "RelativeDocumentMoniker": "DoanhThu.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\DoanhThu.cs",
+              "RelativeToolTip": "DoanhThu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:18:13.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\DoanhThu.cs",
+              "RelativeDocumentMoniker": "DoanhThu.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\DoanhThu.cs [Design]",
+              "RelativeToolTip": "DoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:15:17.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\controllers\\DonHangController.cs",
+              "RelativeToolTip": "controllers\\DonHangController.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAqwLoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:13:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\controllers\\KhachHangController.cs",
+              "RelativeToolTip": "controllers\\KhachHangController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:12:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAnwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:49:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:49:22.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\models\\DonHang.cs",
+              "RelativeDocumentMoniker": "models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Project\\DotNet-Homework\\Mobile App\\models\\DonHang.cs",
+              "RelativeToolTip": "models\\DonHang.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:05:56.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
